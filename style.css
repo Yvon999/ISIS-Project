@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+#accueil {
+    background-color: #e3f2fd;
+    padding: 50px 0;
+}
+
+#magasin {
+    padding: 30px 0;
+}
+
+.card {
+    margin: 20px 0;
+}
+
+#contact {
+    padding: 30px 0;
+    background-color: #e3f2fd;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('E:\yvon SOTODJI\ISIS_TIGRA\css\images\ISIS_BOUTIQUE.jpg'); /* Chemin vers votre image */
+    background-size: cover; /* Assure que l'image couvre tout l'écran */
+    background-position: center; /* Centre l'image sur la page */
+    background-repeat: no-repeat; /* Empêche la répétition de l'image */
+    background-attachment: fixed; /* Garde l'image fixe lorsqu'on défile */
+}
